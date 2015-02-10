@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<application xmlns="http://ns.adobe.com/air/application/15.0">
+<application xmlns="http://ns.adobe.com/air/application/4.0">
 	<id>com.knobay.CanOpenUrlExtensionTest</id>
 	<filename>CanOpenUrlExtensionTest</filename>
 	<name>Dummy1</name>
 	<versionNumber>1.0.0</versionNumber>
 	<versionLabel>v1.0.0</versionLabel>
+	
 	<initialWindow>
 		<content>CanOpenUrlExtensionTest.swf</content>
 		<visible>true</visible>
